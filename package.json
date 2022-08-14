@@ -1,0 +1,19 @@
+{
+  "name": "json-csv-conv",
+  "version": "1.0.0",
+  "description": "It is a lightweight JS Module used for converting CSV Data to JSON Format for easier handling of Data",
+  "main": "index.js",
+  "scripts": {},
+  "type": "module",
+  "keywords": ["JSON","CSV","json2csv","csv2json","npm"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crazycoder122/json-csv-conv.git"
+  },
+  "author": "Krishnendu Dasgupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Crazycoder122/json-csv-conv/issues"
+  },
+  "homepage": "https://github.com/Crazycoder122/json-csv-conv#readme"
+}
